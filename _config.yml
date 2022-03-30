@@ -152,5 +152,5 @@ inc_before_post_list :
 inc_after_post_list :
 
 theme: jekyll-theme-cayman
-remote_theme: benbalter/retlabs
+remote_theme: benbalter/retlab
 
